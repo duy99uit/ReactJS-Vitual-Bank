@@ -1,5 +1,3 @@
-import { FaSleigh } from "react-icons/fa";
-
 export const homeObjOne ={
     id: 'about',
     lightBg: false,
